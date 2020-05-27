@@ -1,5 +1,5 @@
 # Instructions to Run simulation files
-Open terminal and type-
+Change the working directory to spice. This can be done using the following command in the main directory.
 ```
 cd spice
 ```
